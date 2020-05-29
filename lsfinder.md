@@ -4,8 +4,8 @@ This Liberating Structures Finder (LS Finder) is based on the [Liberating Struct
 
 The format of the Liberating Structures Finder seeks to keep the basic structure of the Liberating Structures Selection Matchmaker intact, where each entry in the table includes:
 - The number of the Liberating Structure in the Matchmaker
-- The name of the Liberating Structure (which links to its full description)
-- A short description of the Liberating Structure (with some edits for brevity)
+- The name of the Liberating Structure, which links to its full description on the [Liberating Structures website](http://www.liberatingstructures.com/)
+- A short description of the Liberating Structure 
 - The typical timebox for the Liberating Structure (shown in parentheses)
 
 <html>
