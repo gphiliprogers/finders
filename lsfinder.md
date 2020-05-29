@@ -175,6 +175,7 @@ Discover, spark, unleash local solutions to chronic problems<br>
 (60 - 360)
 </td>
 </tr>
+</tbody>
 </table>
 
 ## Notes
@@ -184,7 +185,6 @@ It's important to point out that the Liberating Structures Selection Matchmaker 
 An additional resource that can be used with the Liberating Structure Selection Matchmaker is the [Matching Matrix]( http://www.liberatingstructures.com/matching-matrix/), which groups the Liberating Structures based on five common goals.
 
 
-</tbody>
-</table>
+
 
 
