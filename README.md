@@ -1,4 +1,4 @@
-# finders
+# Finders
 
 Finders are pages that can help locate relevant content quickly, to address a particular need. 
 
