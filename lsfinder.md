@@ -8,6 +8,7 @@ The format of the Liberating Structures Finder seeks to keep the basic structure
 - A short description of the Liberating Structure (with some edits for brevity)
 - The typical timebox for the Liberating Structure (shown in parentheses)
 
+<html>
 <table>
 <tbody>
 
@@ -177,6 +178,7 @@ Discover, spark, unleash local solutions to chronic problems<br>
 </tr>
 </tbody>
 </table>
+</html>
 
 ## Notes
 
