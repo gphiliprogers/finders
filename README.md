@@ -1,6 +1,6 @@
 # finders
 
-Finders are pages that can help locate relevant content quickly, to address a particular need.
+Finders are pages that can help locate relevant content quickly, to address a particular need. 
 
 Here are a couple of initial finders that are in the works:
 
