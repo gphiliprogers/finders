@@ -2,11 +2,7 @@
 
 This Liberating Structures Finder (LS Finder) is based on the [Liberating Structures Selectio Matchmaker](http://www.liberatingstructures.com/storage/articles-nascent-ls/LS%20Selection%20Matchmaker%20v%209.pdf).  
 
-It's important to point out that the Liberating Structures Selection Matchmaker was designed by Keith	McCandless and Henri	Lipmanowicz	to be printed and (ideally) used with the Liberating Structures Design Cards, and/or the Liberating Structures Menu. Given the way that the world is changing, where in-person collaboration has become less common (at least for now), this LS Finder is intended to make it easier to perform on online lookup for Liberating Structures.
-
-Note: An additional resource that can be used with the Liberating Structure Selection Matchmaker is the [Matching Matrix]( http://www.liberatingstructures.com/matching-matrix/), which groups the Liberating Structures based on five common goals.
-
-The format of the LS Finder seeks to keep the basic structure of the Liberating Structure Selection Matchmaker intact, where each entry in the table includes:
+The format of the Liberating Structures Finder seeks to keep the basic structure of the Liberating Structure Selection Matchmaker intact, where each entry in the table includes:
 - The number of the Liberating Structure in the Matchmaker
 - The name of the Liberating Structure (which links to its full description)
 - A short description of the Liberating Structure (with some edits for brevity)
@@ -180,6 +176,11 @@ Discover, spark, unleash local solutions to chronic problems<br>
 </td>
 </tr>
 
+# Notes
+
+It's important to point out that the Liberating Structures Selection Matchmaker was designed by Keith	McCandless and Henri	Lipmanowicz	to be printed and (ideally) used with the Liberating Structures Design Cards, and/or the Liberating Structures Menu. Given the way that the world is changing, where in-person collaboration has become less common (at least for now), this LS Finder is intended to make it easier to perform on online lookup for Liberating Structures.
+
+An additional resource that can be used with the Liberating Structure Selection Matchmaker is the [Matching Matrix]( http://www.liberatingstructures.com/matching-matrix/), which groups the Liberating Structures based on five common goals.
 
 
 </tbody>
