@@ -8,6 +8,8 @@ The format of the M30 Finder is based on a taxonomy that groups the practices in
   - The name of the Practice, which links to its full description on the Management 3.0 website website
   - A short description of the practice 
   - Separate download link / link to additional information (as appicable)
+  
+**[Back to Finders home](https://gphiliprogers.github.io/finders/)**
 
 <html>
 <table>
@@ -88,21 +90,11 @@ The format of the M30 Finder is based on a taxonomy that groups the practices in
 
 
 
-
-
-
-
-
-
-
-
-
-
 </tbody>
 </table>
 </html>
 
 ## Notes
 
-
+Notes
 
