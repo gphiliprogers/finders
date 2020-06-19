@@ -88,6 +88,63 @@ The format of the M30 Finder is based on a taxonomy that groups the practices in
 
 
 
+<tr>
+<td align="center">
+<h5>Tools for Employee Engagement</h5>
+</td>
+
+
+<td>
+<h6>
+<p><a href="https://management30.com/practice/happiness-steps/">12 Steps to Happiness</a></p>
+<p>Keys to joy in life and at work</p>
+<p><a href="https://management30.com/download/22948/">Poster download</a></p>
+</h6>
+</td>
+
+<td>
+<h6>
+<p><a href="https://management30.com/practice/celebration-grids/">Celebration Grids</a></p>
+<p>A visual way to celebrate successes and failures</p>
+<p><a href="https://management30.com/download/22948/">Blank Grid download</a></p>
+</h6>
+</td>
+
+<td>
+<h6>
+<p><a href="https://management30.com/practice/corporate-huddles/">Corporate Huddles</a></p>
+<p>Advice for effective all-hands meetings</p>
+<p><a href="https://management30.com/blog/the-all-hands-meeting-or-zoo-time/">Zoo Time! blog post</a></p>
+</h6>
+</td>
+
+<td>
+<h6>
+<p><a href="https://management30.com/practice/happiness-door/">Happiness Door</a></p>
+<p>Visual technique to gather open & honest feedback</p>
+<p><a href="https://youtu.be/jopq0C7dRZo">Happiness Door Video</a></p>
+</h6>
+</td>
+
+<td>
+<h6>
+<p><a href="https://management30.com/practice/kudo-cards/">Kudo Cards</a></p>
+<p>Simple way to express appreciation to colleagues</p>
+<p><a href="https://management30.com/practice/kudo-cards/#download">Card deck purchase/download</p>
+</h6>
+</td>
+
+<td>
+<h6>
+<p><a href="https://management30.com/practice/moving-motivators/">Moving Motivators</a></p>
+<p>Interactive means of expressing what we value</p>
+<p><a href="https://management30.com/practice/moving-motivators/#download">Card deck purchase/download</a></p>
+</h6>
+</td>
+
+</tr>
+
+
 </tbody>
 </table>
 </html>
