@@ -80,7 +80,7 @@ The format of the M30 Finder is based on a taxonomy that groups the practices in
 </h6>
 </td>
 
-</tr>
+
 
 
 
