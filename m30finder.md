@@ -23,17 +23,17 @@ The format of the M30 Finder is based on a taxonomy that groups the practices in
 <td colspan="6" align="center">
 <h4>Practices</h4>
 </td>
-
 </tr>
 
+<tr>
 <td colspan="7">
 </td>
+</tr>
 
 <tr>
 <td align="center">
 <h5>Tools for Employee Engagement</h5>
 </td>
-
 
 
 <td>
