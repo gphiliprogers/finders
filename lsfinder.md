@@ -8,6 +8,8 @@ The format of the Liberating Structures Finder seeks to keep the basic structure
 - A short description of the Liberating Structure 
 - The typical timebox for the Liberating Structure (shown in parentheses)
 
+**[Back to Finders home](https://gphiliprogers.github.io/finders/)**
+
 <html>
 <table>
 <tbody>
