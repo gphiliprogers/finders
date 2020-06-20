@@ -20,7 +20,7 @@ The format of the M30 Finder is based on a taxonomy that groups the practices in
 <h4>Practice Category</h4>
 </td>
 
-<td colspan="6" align="center">
+<td colspan="5" align="center">
 <h4>Practices</h4>
 </td>
 </tr>
@@ -61,7 +61,7 @@ The format of the M30 Finder is based on a taxonomy that groups the practices in
 <h6>
 <p><a href="https://management30.com/practice/kudo-cards/">Kudo Cards</a></p>
 <p>Express appreciation to colleagues</p>
-<p><a href="https://management30.com/practice/kudo-cards/#download">Card deck purchase/download</a></p>
+<p><a href="https://management30.com/practice/kudo-cards/#download">Kudo Card deck purchase/download</a></p>
 </h6>
 </td>
 
@@ -70,16 +70,11 @@ The format of the M30 Finder is based on a taxonomy that groups the practices in
 <h6>
 <p><a href="https://management30.com/practice/moving-motivators/">Moving Motivators</a></p>
 <p>Express what matters most to us</p>
-<p><a href="https://management30.com/practice/moving-motivators/#download">Card deck purchase/download</a></p>
+<p><a href="https://management30.com/practice/moving-motivators/#download">Moving Motivators card deck purchase/download</a></p>
 </h6>
 </td>
 
-<td>
-<h6>
-<p></p>
-<p></p>
-</h6>
-</td>
+
 
 
 
@@ -120,9 +115,6 @@ The format of the M30 Finder is based on a taxonomy that groups the practices in
 </h6>
 </td>
 
-
-
-
 <td>
 <h6>
 <p></p>
@@ -131,13 +123,55 @@ The format of the M30 Finder is based on a taxonomy that groups the practices in
 </td>
 
 
+<tr>
+<td align="center">
+<h5>Tools for Managing the System</h5>
+</td>
+
 
 <td>
 <h6>
-<p></p>
-<p></p>
+<p><a href="https://management30.com/practice/delegation-poker/">Delegation Poker</a></p>
+<p>Understand that delegation has many forms & think about what style you might choose for a particular situation</p>
+<p><a href="https://management30.com/practice/delegation-poker/#download">Delegation Poker purchase/download</a></p>
 </h6>
 </td>
+
+<td>
+<h6>
+<p><a href="https://management30.com/practice/merit-money/">Merit Money</a></p>
+<p>Explore less conventional ways to recognize people and share in success</p>
+<p><a href="https://management30.com/blog/bonus-money-peer-recognition/">Bonus Money & Peer-to-Peer Recognition blog post</a></p>
+</h6>
+</td>
+
+<td>
+<h6>
+<p><a href="https://management30.com/practice/star-behavioral-interview-questions/">STAR Behavioral Interview Questions</a></p>
+<p>Frame interviews based on Situations, Tasks, Actions, & Results (STAR)</p>
+<p><a href="https://management30.com/download/22945/">STAR Interview Questions download</a></p>
+</h6>
+</td>
+
+<td>
+<h6>
+<p><a href="https://management30.com/practice/salary-formula/">Salary Formula</a></p>
+<p>Delve into current and possible future compensation models in a spirit of transparency</p>
+<p><a href="https://management30.com/blog/make-salary-comparison-easy-by-being-transparent/">Make Salary Comparison Easy by Being Transparent blog post</a></p>
+</h6>
+</td>
+
+<td>
+<h6>
+<p><a href="https://management30.com/practice/work-profiles/">Work Profiles</a></p>
+<p>Take a broad perspective on what work needs to be done and what to call that work</p>
+<p><a href="https://management30.com/blog/values-exercises-to-build-vision/">How We Created Informal Job Titles blog post</a></p>
+</h6>
+</td>
+
+
+
+
 
 
 
@@ -152,14 +186,6 @@ The format of the M30 Finder is based on a taxonomy that groups the practices in
 <p><a href="https://management30.com/practice/culture-books/">Culture Books</a></p>
 <p>Identify & capture the values that constitute the organization's reason for being</p>
 <p><a href="https://1qjpt15fhlq3xjfpm2utibj1-wpengine.netdna-ssl.com/wp-content/uploads/2019/02/big-value-list-management30.pdf">Big Values List download</a></p>
-</h6>
-</td>
-
-<td>
-<h6>
-<p><a href="https://management30.com/practice/diversity-index/">Diversity Index</a></p>
-<p>Explore what we have in common and ways in which we differ/</p>
-<p><a href="https://management30.com/download/36656/">Blank Diversity Index download</a></p>
 </h6>
 </td>
 
