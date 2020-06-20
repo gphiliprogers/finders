@@ -35,7 +35,7 @@ The format of the M30 Finder is based on a taxonomy that groups the practices in
 <td>
 <h6>
 <p><a href="https://management30.com/practice/happiness-steps/">12 Steps to Happiness</a></p>
-<p>Keys to joy in life and at work</p>
+<p>Find joy in life and at work</p>
 <p><a href="https://management30.com/download/22948/">Poster download</a></p>
 </h6>
 </td>
@@ -43,7 +43,7 @@ The format of the M30 Finder is based on a taxonomy that groups the practices in
 <td>
 <h6>
 <p><a href="https://management30.com/practice/celebration-grids/">Celebration Grids</a></p>
-<p>A visual way to celebrate successes and failures</p>
+<p>Celebrate successes and failures visually</p>
 <p><a href="https://management30.com/download/22948/">Blank Grid download</a></p>
 </h6>
 </td>
@@ -51,7 +51,7 @@ The format of the M30 Finder is based on a taxonomy that groups the practices in
 <td>
 <h6>
 <p><a href="https://management30.com/practice/corporate-huddles/">Corporate Huddles</a></p>
-<p>Advice for effective all-hands meetings</p>
+<p>Have  effective all-hands or other group meetings</p>
 <p><a href="https://management30.com/blog/the-all-hands-meeting-or-zoo-time/">Zoo Time! blog post</a></p>
 </h6>
 </td>
@@ -59,7 +59,7 @@ The format of the M30 Finder is based on a taxonomy that groups the practices in
 <td>
 <h6>
 <p><a href="https://management30.com/practice/happiness-door/">Happiness Door</a></p>
-<p>Visual technique to gather open & honest feedback</p>
+<p>Gather open & honest feedback visually</p>
 <p><a href="https://youtu.be/jopq0C7dRZo">Happiness Door Video</a></p>
 </h6>
 </td>
@@ -67,7 +67,7 @@ The format of the M30 Finder is based on a taxonomy that groups the practices in
 <td>
 <h6>
 <p><a href="https://management30.com/practice/kudo-cards/">Kudo Cards</a></p>
-<p>Simple way to express appreciation to colleagues</p>
+<p>Express appreciation to colleagues</p>
 <p><a href="https://management30.com/practice/kudo-cards/#download">Card deck purchase/download</a></p>
 </h6>
 </td>
@@ -76,7 +76,7 @@ The format of the M30 Finder is based on a taxonomy that groups the practices in
 <td>
 <h6>
 <p><a href="https://management30.com/practice/moving-motivators/">Moving Motivators</a></p>
-<p>Interactive means of expressing what we value</p>
+<p>Express what matters most to us</p>
 <p><a href="https://management30.com/practice/moving-motivators/#download">Card deck purchase/download</a></p>
 </h6>
 </td>
@@ -87,55 +87,54 @@ The format of the M30 Finder is based on a taxonomy that groups the practices in
 
 <tr>
 <td align="center">
-<h5>Tools for Employee Engagement</h5>
+<h5>Tools for Exploring Organizational Culture</h5>
 </td>
 
 
 <td>
 <h6>
-<p><a href="https://management30.com/practice/happiness-steps/">12 Steps to Happiness</a></p>
-<p>Keys to joy in life and at work</p>
-<p><a href="https://management30.com/download/22948/">Poster download</a></p>
+<p><a href="https://management30.com/practice/culture-books/">Culture Books</a></p>
+<p>Identify & capture the values that constitute the organization's reason for being</p>
+<p><a href="https://1qjpt15fhlq3xjfpm2utibj1-wpengine.netdna-ssl.com/wp-content/uploads/2019/02/big-value-list-management30.pdf">Big Values List download</a></p>
 </h6>
 </td>
 
 <td>
 <h6>
-<p><a href="https://management30.com/practice/celebration-grids/">Celebration Grids</a></p>
-<p>A visual way to celebrate successes and failures</p>
-<p><a href="https://management30.com/download/22948/">Blank Grid download</a></p>
+<p><a href="https://management30.com/practice/diversity-index/">Diversity Index</a></p>
+<p>Explore what we have in common and ways in which we differ/p>
+<p><a href="https://management30.com/download/36656/">Blank Diversity Index download</a></p>
 </h6>
 </td>
 
 <td>
 <h6>
-<p><a href="https://management30.com/practice/corporate-huddles/">Corporate Huddles</a></p>
-<p>Advice for effective all-hands meetings</p>
-<p><a href="https://management30.com/blog/the-all-hands-meeting-or-zoo-time/">Zoo Time! blog post</a></p>
+<p><a href="https://management30.com/practice/identity-symbols/">Identity Symbols</a></p>
+<p>Choose one or more symbols to solidify a sense of belonging</p>
 </h6>
 </td>
 
 <td>
 <h6>
-<p><a href="https://management30.com/practice/happiness-door/">Happiness Door</a></p>
-<p>Visual technique to gather open & honest feedback</p>
-<p><a href="https://youtu.be/jopq0C7dRZo">Happiness Door Video</a></p>
+<p><a href="https://management30.com/practice/personal-maps/">Personal Maps</a></p>
+<p>Create a visual that portrays who we are</p>
+<p><a href="https://youtu.be/T9d8w-OG-Fk">Personal Maps Video</a></p>
 </h6>
 </td>
 
 <td>
 <h6>
-<p><a href="https://management30.com/practice/kudo-cards/">Kudo Cards</a></p>
-<p>Simple way to express appreciation to colleagues</p>
-<p><a href="https://management30.com/practice/kudo-cards/#download">Card deck purchase/download</a></p>
+<p><a href="https://management30.com/practice/value-stories/">Value Stories</a></p>
+<p>Surface narratives & themes that create a sense of purpose</p>
+<p><a href="https://management30.com/blog/values-exercises-to-build-vision/">Value Exercises to Build Vision in Your Company blog post</a></p>
 </h6>
 </td>
 
 <td>
 <h6>
-<p><a href="https://management30.com/practice/moving-motivators/">Moving Motivators</a></p>
-<p>Interactive means of expressing what we value</p>
-<p><a href="https://management30.com/practice/moving-motivators/#download">Card deck purchase/download</a></p>
+<p><a href="https://management30.com/practice/work-expo/">Work Expo</a></p>
+<p>Use any form of physical or virtual artifacts to show the work you do</p>
+<p><a href="https://management30.com/practice/moving-motivators/#download">Work Expo video</a></p>
 </h6>
 </td>
 
