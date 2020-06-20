@@ -10,7 +10,3 @@ Here are a couple of initial finders that are in the works:
 
 
 
-
-
-
-
