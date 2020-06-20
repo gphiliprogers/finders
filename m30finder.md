@@ -68,9 +68,10 @@ The format of the M30 Finder is based on a taxonomy that groups the practices in
 <h6>
 <p><a href="https://management30.com/practice/kudo-cards/">Kudo Cards</a></p>
 <p>Simple way to express appreciation to colleagues</p>
-<a href="https://management30.com/practice/kudo-cards/#download">Card deck purchase/download
+<p><a href="https://management30.com/practice/kudo-cards/#download">Card deck purchase/download</a></p>
 </h6>
 </td>
+
 
 <td>
 <h6>
@@ -126,7 +127,7 @@ The format of the M30 Finder is based on a taxonomy that groups the practices in
 <h6>
 <p><a href="https://management30.com/practice/kudo-cards/">Kudo Cards</a></p>
 <p>Simple way to express appreciation to colleagues</p>
-<p><a href="https://management30.com/practice/kudo-cards/#download">Card deck purchase/download</p>
+<p><a href="https://management30.com/practice/kudo-cards/#download">Card deck purchase/download</a></p>
 </h6>
 </td>
 
