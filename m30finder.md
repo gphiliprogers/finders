@@ -56,13 +56,6 @@ The format of the M30 Finder is based on a taxonomy that groups the practices in
 </h6>
 </td>
 
-<td>
-<h6>
-<p><a href="https://management30.com/practice/happiness-door/">Happiness Door</a></p>
-<p>Gather open & honest feedback visually</p>
-<p><a href="https://youtu.be/jopq0C7dRZo">Happiness Door Video</a></p>
-</h6>
-</td>
 
 <td>
 <h6>
@@ -81,7 +74,70 @@ The format of the M30 Finder is based on a taxonomy that groups the practices in
 </h6>
 </td>
 
+<td>
+<h6>
+<p></p>
+<p></p>
+</h6>
+</td>
 
+
+
+
+<tr>
+<td align="center">
+<h5>Tools for Effective Employee Feedback</h5>
+</td>
+  
+<td>
+<h6>
+<p><a href="https://management30.com/practice/360-degree-dinner/">360 Degree Dinner</a></p>
+<p>Have a meal together (either virtually or in person) to build empathy and understanding</p>
+</h6>
+</td>
+
+
+<td>
+<h6>
+<p><a href="https://management30.com/practice/improvement-dialogues/">Improvement Dialogues</a></p>
+<p>Leverage proven techniques to have constructive converesations about areas of potential improvement</p>
+</h6>
+</td>
+
+<td>
+<h6>
+<p><a href="https://management30.com/practice/feedback-wraps/">Feedback Wrap</a></p>
+<p>Apply guielines for giving and receiving feedback effectively/</p>
+<p><a href="https://youtu.be/YTh8bDyDz9c">Feedback Wrap video</a></p>
+</h6>
+</td>
+
+<td>
+<h6>
+<p><a href="https://management30.com/practice/happiness-door/">Happiness Door</a></p>
+<p>Create a channel for people to provide anonymous feedback</p>
+<p><a href="https://youtu.be/jopq0C7dRZo">Happiness Door video</a></p>
+</h6>
+</td>
+
+
+
+
+<td>
+<h6>
+<p></p>
+<p></p>
+</h6>
+</td>
+
+
+
+<td>
+<h6>
+<p></p>
+<p></p>
+</h6>
+</td>
 
 
 
