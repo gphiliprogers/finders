@@ -102,7 +102,7 @@ The format of the M30 Finder is based on a taxonomy that groups the practices in
 <td>
 <h6>
 <p><a href="https://management30.com/practice/diversity-index/">Diversity Index</a></p>
-<p>Explore what we have in common and ways in which we differ/p>
+<p>Explore what we have in common and ways in which we differ/</p>
 <p><a href="https://management30.com/download/36656/">Blank Diversity Index download</a></p>
 </h6>
 </td>
