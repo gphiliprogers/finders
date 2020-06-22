@@ -14,7 +14,7 @@ This Management 3.0 Practices Finder (M30 Finder) enables rapid exploration of [
    - Tools for Team Exploration
    - Tools for Measurement  
 - For each category, there is a set of from 3 to 5 practices. For each of those practices, you can find:
-  - The name of the Practice, which links to its full description on the Management 3.0 website website
+  - The name of the Practice, which links to its full description on the Management 3.0 website
   - A short description of the practice 
   - Separate download link / link to additional information (as appicable) 
   
