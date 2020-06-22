@@ -184,8 +184,6 @@ The format of the M30 Finder is based on a taxonomy that groups the practices in
 </td>
   
 
-
-
 <td>
 <h6>
 <p><a href="https://management30.com/practice/business-guilds/">Business Guilds & Communities of Practice</a></p>
@@ -227,13 +225,9 @@ The format of the M30 Finder is based on a taxonomy that groups the practices in
 <h6>
 <p><a href="https://management30.com/practice/meddlers/">Meddlers Game</a></p>
 <p>Experiment with ways of reimagining team composition and/or organizational structure</p>
-<p><a href="https://management30.com/shop/meddlers-game/">Meddlers Game purchase</a></p>
+<p><a href="https://management30.com/shop/meddlers-game/">Meddlers Game purchase/download</a></p>
 </h6>
 </td>
-
-
-
-
 
 
 
@@ -284,6 +278,59 @@ The format of the M30 Finder is based on a taxonomy that groups the practices in
 </h6>
 </td>
 
+
+
+
+<tr>
+<td align="center">
+<h5>Tools for Team Exploration</h5>
+</td>
+  
+
+<td>
+<h6>
+<p><a href="https://management30.com/practice/diversity-index/">Diversity Index</a></p>
+<p>Surface opportunities to learn from each other by identifying similarities and differences</p>
+<p><a href="https://management30.com/download/36656/">Blank Diversity Index download</a></p>
+</h6>
+</td>
+
+
+<td>
+<h6>
+<p><a href="https://management30.com/practice/improv-cards/">Improv Cards & Story Telling</a></p>
+<p>Discover more about ourselves and each other by telling stories based on a single image/</p>
+<p><a href="https://management30.com/shop/improv-cards/">Improv Card deck purchase</a></p>
+</h6>
+</td>
+
+
+
+<td>
+<h6>
+<p><a href="https://management30.com/practice/niko-niko-calendar/">Niko Niko Calendar</a></p>
+<p>Give team members a daily opportunity to indicate how they're doing</p>
+<p><a href="https://management30.com/download/22942/">Blank Niko Niko Calendar download</a></p>
+</h6>
+</td>
+
+
+<td>
+<h6>
+<p><a href="https://management30.com/practice/competency-matrix/">Team Competency Matrix</a></p>
+<p>Surface mentoring and learning opportunities in a team context</p>
+<p><a href="https://management30.com/download/34484/">Blank Team Competency Matrix download</a></p>
+</h6>
+</td>
+
+
+<td>
+<h6>
+<p><a href="https://management30.com/practice/yay-questions/">Yay! Questions</a></p>
+<p>Check in on the progress of experiments, what's going well, and what isn't</p>
+<p><a href="https://management30.com/blog/developing-a-learning-mindset-with-yay-questions/">Developing a Learning Mindset with Yay! Questions blog post</a></p>
+</h6>
+</td>
 
 
 
