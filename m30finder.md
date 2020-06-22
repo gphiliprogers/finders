@@ -334,4 +334,56 @@ The format of the M30 Finder is based on a taxonomy that groups the practices in
 
 
 
+<tr>
+<td align="center">
+<h5>Tools for Measurement</h5>
+</td>
+  
+
+<td>
+<h6>
+<p><a href="https://management30.com/practice/okrs/">OKRs</a></p>
+<p>Learn to frame organizational Objectives and Key Results effectively</p>
+<p><a href="https://management30.com/blog/experimenting-with-okrs-first-quarter-mayhem/">Experimenting with OKRs blog post</a></p>
+</h6>
+</td>
+
+
+<td>
+<h6>
+<p><a href="https://management30.com/practice/problem-time/">Problem Time</a></p>
+<p>Capture data that provides visibiity into pain points and potential improvements that can make the biggest difference/</p>
+</h6>
+</td>
+
+
+
+
+<td>
+<h6>
+<p><a href="https://management30.com/practice/scoreboard-index/">Scoreboard Index</a></p>
+<p>See how we're doing at any level of the organization - personal, team, or business function</p>
+<p><a href="https://noop.nl/2015/10/the-scoreboard-index.html">How to Measure Your Team's Performance blog post</a></p>
+</h6>
+</td>
+
+
+<td>
+<h6>
+<p></p>
+<p></p>
+<p></p>
+</h6>
+</td>
+
+<td>
+<h6>
+<p></p>
+<p></p>
+<p></p>
+</h6>
+</td>
+
+
+
 
