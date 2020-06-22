@@ -79,6 +79,8 @@ The format of the M30 Finder is based on a taxonomy that groups the practices in
 
 
 
+
+
 <tr>
 <td align="center">
 <h5>Tools for Effective Employee Feedback</h5>
@@ -121,6 +123,9 @@ The format of the M30 Finder is based on a taxonomy that groups the practices in
 <p></p>
 </h6>
 </td>
+
+
+
 
 
 <tr>
@@ -168,6 +173,65 @@ The format of the M30 Finder is based on a taxonomy that groups the practices in
 <p><a href="https://management30.com/blog/values-exercises-to-build-vision/">How We Created Informal Job Titles blog post</a></p>
 </h6>
 </td>
+
+
+
+
+
+<tr>
+<td align="center">
+<h5>Tools to Support Innovation & Change</h5>
+</td>
+  
+
+
+
+<td>
+<h6>
+<p><a href="https://management30.com/practice/business-guilds/">Business Guilds & Communities of Practice</a></p>
+<p>Give people with shared skills and interests an opportunity to learn from each other and improve their craft</p>
+<p><a href="https://management30.com/blog/guilds-innovating-together/">Guilds, innovating together blog post</a></p>
+</h6>
+</td>
+
+
+<td>
+<h6>
+<p><a href="https://management30.com/practice/change-management-game/">Change Management Game</a></p>
+<p>Explore ideas by asking questions associated with one or more change models/</p>
+<p><a href="https://management30.com/practice/change-management-game/#download">Change Management Game purchase/download</a></p>
+</h6>
+</td>
+
+
+
+<td>
+<h6>
+<p><a href="https://management30.com/practice/exploration-days/">Exploration Days</a></p>
+<p>Set aside time for new ideas to emerge that potentially improve existing products or explore new markets</p>
+<p><a href="https://youtu.be/gL-jK_PqL18">Exploration Days video</a></p>
+</h6>
+</td>
+
+
+<td>
+<h6>
+<p><a href="https://management30.com/practice/internal-crowdfunding/">Internal Crowdfunding</a></p>
+<p>Enable the best ideas to emerge by tapping into the wisdom of the crowd</p>
+<p><a href="https://medium.com/@jurgenappelo/from-innovation-committees-to-internal-crowdfunding-fffa7d9b4860#.4odg07rc3">Try Internal Crowdfunding blog post</a></p>
+</h6>
+</td>
+
+
+<td>
+<h6>
+<p><a href="https://management30.com/practice/meddlers/">Meddlers Game</a></p>
+<p>Experiment with ways of reimagining team composition and/or organizational structure</p>
+<p><a href="https://management30.com/shop/meddlers-game/">Meddlers Game purchase</a></p>
+</h6>
+</td>
+
+
 
 
 
