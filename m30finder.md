@@ -113,7 +113,7 @@ This Management 3.0 Practices Finder (M30 Finder) enables rapid exploration of [
 <td>
 <h6>
 <p><a href="https://management30.com/practice/feedback-wraps/">Feedback Wrap</a></p>
-<p>Try proven techniques for giving and receiving feedback/</p>
+<p>Try proven techniques for giving and receiving feedback</p>
 <p><a href="https://youtu.be/YTh8bDyDz9c">Feedback Wrap video</a></p>
 </h6>
 </td>
