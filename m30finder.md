@@ -1,10 +1,19 @@
 # Management 3.0 Practices Finder
 
-This Management 3.0 Practices Finder (M30 Finder) seeks to make it as easy as possible for facilitators and others to quickly find a Management 3.0 Practice to address a particular need. 
+[Management 3.0](https://management30.com/learn/) moves beyond theory by providing an actionable set of tools and practices 
+that grow leadership skills, encourage innovation, and increase happiness, to name just a few of the potential benefits.
 
-The format of the M30 Finder is based on a taxonomy that groups the practices into six categories, where:
-- The categories are loosely based on an original set of four categories, which are described at the bottom of the [Practices page on the Management 3.0 website](https://management30.com/practice/).
-- In each cell in the table (which contains a set of Practices that fall under that category), you can find:
+This Management 3.0 Practices Finder (M30 Finder) enables rapid exploration of [Management 3.0 practices](https://management30.com/practice/) to help leaders and facilitators choose one or more techniques that they can run as an experiment, in a spirit of continuous improvement. 
+
+- The M30 Finder groups the practices into seven categories:
+   - Tools for Engagement
+   - Tools for Effective Feedback
+   - Tools for Managing the System
+   - Tools to Support Innovation and Change
+   - Tools for Exploring Organizational Culture
+   - Tols for Team Exploration
+   - Tools for Measurement  
+- For each category, there is a set of from 3 to 5 practices. For each of those practices, you can find:
   - The name of the Practice, which links to its full description on the Management 3.0 website website
   - A short description of the practice 
   - Separate download link / link to additional information (as appicable) 
@@ -28,7 +37,7 @@ The format of the M30 Finder is based on a taxonomy that groups the practices in
 
 <tr>
 <td align="center">
-<h5>Tools for Employee Engagement</h5>
+<h5>Tools for Engagement</h5>
 </td>
 
 
@@ -83,7 +92,7 @@ The format of the M30 Finder is based on a taxonomy that groups the practices in
 
 <tr>
 <td align="center">
-<h5>Tools for Effective Employee Feedback</h5>
+<h5>Tools for Effective Feedback</h5>
 </td>
   
 <td>
