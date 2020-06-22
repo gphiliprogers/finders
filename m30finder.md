@@ -113,7 +113,7 @@ This Management 3.0 Practices Finder (M30 Finder) enables rapid exploration of [
 <td>
 <h6>
 <p><a href="https://management30.com/practice/feedback-wraps/">Feedback Wrap</a></p>
-<p>Apply guielines for giving and receiving feedback effectively/</p>
+<p>Try proven techniques for giving and receiving feedback/</p>
 <p><a href="https://youtu.be/YTh8bDyDz9c">Feedback Wrap video</a></p>
 </h6>
 </td>
@@ -371,7 +371,7 @@ This Management 3.0 Practices Finder (M30 Finder) enables rapid exploration of [
 <td>
 <h6>
 <p><a href="https://management30.com/practice/scoreboard-index/">Scoreboard Index</a></p>
-<p>See how we're doing at any level of the organization - personal, team, or business function</p>
+<p>See how we're doing at any level of the organization</p>
 <p><a href="https://noop.nl/2015/10/the-scoreboard-index.html">How to Measure Your Team's Performance blog post</a></p>
 </h6>
 </td>
