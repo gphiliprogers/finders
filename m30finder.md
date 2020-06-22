@@ -11,7 +11,7 @@ This Management 3.0 Practices Finder (M30 Finder) enables rapid exploration of [
    - Tools for Managing the System
    - Tools to Support Innovation and Change
    - Tools for Exploring Organizational Culture
-   - Tols for Team Exploration
+   - Tools for Team Exploration
    - Tools for Measurement  
 - For each category, there is a set of from 3 to 5 practices. For each of those practices, you can find:
   - The name of the Practice, which links to its full description on the Management 3.0 website website
