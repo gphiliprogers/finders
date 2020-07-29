@@ -47,7 +47,7 @@ Note: The term "Cheat Sheet" will be used as a general category for the remainde
 <h6>
 <p>Corinna Baldauf</p>
 <p>A poster that describes how psychological safety is an enabling factor for high-performing teams</p>
-<p><a href="https://wall-skills.com/2020/what-is-psychological-safety/">What is psychological safety?</a></p>
+<p><a href="https://wall-skills.com/2020/what-is-psychological-safety/">What is Psychological Safety?</a></p>
 </h6>
 </td>
 
@@ -55,7 +55,7 @@ Note: The term "Cheat Sheet" will be used as a general category for the remainde
 <h6>
 <p>Corinna Baldauf</p>
 <p>A poster that provides a leader’s toolkit for what needs to be in place for psychological safety to exist, based on Amy Edmundson’s book</p>
-<p><a href="https://wall-skills.com/2020/how-to-build-psychological-safety/">How to build pyschological safety</a></p>
+<p><a href="https://wall-skills.com/2020/how-to-build-psychological-safety/">How to Build Pyschological Safety</a></p>
 </h6>
 </td>
 
@@ -63,7 +63,7 @@ Note: The term "Cheat Sheet" will be used as a general category for the remainde
 <h6>
 <p>Excella</p>
 <p>A fact sheet that describes what psychological safety is, how it’s manifested, and what we can do to model and reinforce it</p>
-<p><a href="https://www.excella.com/resource/psychological-safety">Psychological safety fact sheet</a></p>
+<p><a href="https://www.excella.com/resource/psychological-safety">Psychological Safety Fact Sheet</a></p>
 </h6>
 </td>
 
@@ -72,7 +72,7 @@ Note: The term "Cheat Sheet" will be used as a general category for the remainde
 <h6>
 <p>Joshua Kerievsky, Heidi Helfand, Ashley Johnson</p>
 <p>A cheat sheet containing a short collection of definitions and techniques to help ensure psychological safety is understood and enabled</p>
-<p><a href="http://modernagile.org/safety/">High performance via psychological safety</a></p>
+<p><a href="http://modernagile.org/safety/">High Performance via Psychological Safety</a></p>
 </h6>
 </td>
 
