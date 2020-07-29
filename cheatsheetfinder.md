@@ -13,7 +13,7 @@ Note: The term "Cheat Sheet" will be used as a general category for the remainde
 
 - The Cheat Sheet Finder includes the following categories:
    - Psychological Safety
-   - more to follow  
+   - Kanban, eXtreme Programming (XP), Scrum
 - For each category, there are multiple cheat sheets. For each of those cheat sheets, you can find:
   - The author(s) of the Cheat Sheet (or name of the organization hosting the content)
   - A short description of what the Cheat Sheet describes 
