@@ -1,5 +1,5 @@
 
-#Cheat Sheet Finder
+# Cheat Sheet Finder
 
 This page provides links to and short descriptions of content that provides succinct guidance on many different topics. The content types that are listed here include:
 
@@ -16,9 +16,8 @@ Note: The term "Cheat Sheet" will be used as a general category for the remainde
    - more to follow  
 - For each category, there are multiple cheat sheets. For each of those cheat sheets, you can find:
   - The author(s) of the Cheat Sheet (or name of the organization hosting the content)
-  - The name of the Cheat Sheeet
   - A short description of what the Cheat Sheet describes 
-  - Download link 
+  - Name of Cheet Sheet, along with link to view or download 
   
 **[Back to Finders home](https://gphiliprogers.github.io/finders/)**
 
@@ -45,43 +44,43 @@ Note: The term "Cheat Sheet" will be used as a general category for the remainde
 
 <td>
 <h6>
-<p><a href="https://management30.com/practice/happiness-steps/">12 Steps to Happiness</a></p>
-<p>Find joy in life and at work</p>
-<p><a href="https://management30.com/download/22948/">Poster download</a></p>
+<p>Corinna Baldauf</p>
+<p>A poster that describes how psychological safety is an enabling factor for high-performing teams</p>
+<p><a href="https://wall-skills.com/2020/what-is-psychological-safety/">What is psychological safety?</a></p>
 </h6>
 </td>
 
 <td>
 <h6>
-<p><a href="https://management30.com/practice/celebration-grids/">Celebration Grids</a></p>
-<p>Celebrate successes and failures visually</p>
-<p><a href="https://management30.com/download/22948/">Blank Grid download</a></p>
+<p>Corinna Baldauf</p>
+<p>A poster that describes how psychological safety is an enabling factor for high-performing teams</p>
+<p><a href="https://wall-skills.com/2020/what-is-psychological-safety/">What is psychological safety?</a></p>
 </h6>
 </td>
 
 <td>
 <h6>
-<p><a href="https://management30.com/practice/corporate-huddles/">Corporate Huddles</a></p>
-<p>Have  effective all-hands or other group meetings</p>
-<p><a href="https://management30.com/blog/the-all-hands-meeting-or-zoo-time/">Zoo Time! blog post</a></p>
-</h6>
-</td>
-
-
-<td>
-<h6>
-<p><a href="https://management30.com/practice/kudo-cards/">Kudo Cards</a></p>
-<p>Express appreciation to colleagues</p>
-<p><a href="https://management30.com/practice/kudo-cards/#download">Kudo Card deck purchase/download</a></p>
+<p>Corinna Baldauf</p>
+<p>A poster that describes how psychological safety is an enabling factor for high-performing teams</p>
+<p><a href="https://wall-skills.com/2020/what-is-psychological-safety/">What is psychological safety?</a></p>
 </h6>
 </td>
 
 
 <td>
 <h6>
-<p><a href="https://management30.com/practice/moving-motivators/">Moving Motivators</a></p>
-<p>Express what matters most to us</p>
-<p><a href="https://management30.com/practice/moving-motivators/#download">Moving Motivators card deck purchase/download</a></p>
+<p>Corinna Baldauf</p>
+<p>A poster that describes how psychological safety is an enabling factor for high-performing teams</p>
+<p><a href="https://wall-skills.com/2020/what-is-psychological-safety/">What is psychological safety?</a></p>
+</h6>
+</td>
+
+
+<td>
+<h6>
+<p>Corinna Baldauf</p>
+<p>A poster that describes how psychological safety is an enabling factor for high-performing teams</p>
+<p><a href="https://wall-skills.com/2020/what-is-psychological-safety/">What is psychological safety?</a></p>
 </h6>
 </td>
 
@@ -94,7 +93,7 @@ Note: The term "Cheat Sheet" will be used as a general category for the remainde
 
 <tr>
 <td align="center">
-<h5>Tools for Effective Feedback</h5>
+<h5>Category 2</h5>
 </td>
   
 <td>
