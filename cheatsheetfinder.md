@@ -91,7 +91,7 @@ Note: The term "Cheat Sheet" will be used as a general category for the remainde
 <p>Christophe Achouiantz</p>
 <p>A graph with axes for each of the following Kanban properties: visualize, limit WIP, manage flow, explicit policies, feedback loops, improve</p>
 <p><a href="http://leanagileprojects.blogspot.com/2013/03/depth-of-kanban-good-coaching-tool.html">Depth of Kanban Graph</a></p>
-</h6></h6>
+</h6>
 </td> 
    
   
