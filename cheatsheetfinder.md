@@ -1,7 +1,7 @@
 
 # Cheat Sheet Finder
 
-This page provides links to and short descriptions of content that provides succinct guidance on many different topics. The content types that are listed here include:
+This page provides links to and short descriptions of content that provides succinct guidance on many different topics, which fall under domains such as Agile software development, and working in teams. The content types that are listed here include:
 
 - Cheat Sheets
 - Checklists
@@ -30,7 +30,7 @@ Note: The term "Cheat Sheet" will be used as a general category for the remainde
 <h4>Cheat Sheet Category</h4>
 </td>
 
-<td colspan="5" align="center">
+<td colspan="4" align="center">
 <h4>Cheat Sheets</h4>
 </td>
 </tr>
@@ -76,16 +76,6 @@ Note: The term "Cheat Sheet" will be used as a general category for the remainde
 </td>
 
 
-<td>
-<h6>
-<p></p>
-<p></p>
-<p></p>
-</h6>
-</td>
-
-
-
 
 
 
@@ -93,47 +83,47 @@ Note: The term "Cheat Sheet" will be used as a general category for the remainde
 
 <tr>
 <td align="center">
-<h5>Category 2</h5>
+<h5>Kanban, eXtreme Programming (XP), Scrum</h5>
 </td>
+   
+<td>
+<h6>
+<p>Christophe Achouiantz</p>
+<p>A graph with axes for each of the following Kanban properties: visualize, limit WIP, manage flow, explicit policies, feedback loops, improve</p>
+<p><a href="http://leanagileprojects.blogspot.com/2013/03/depth-of-kanban-good-coaching-tool.html">Depth of Kanban Graph</a></p>
+</h6></h6>
+</td> 
+   
   
 <td>
 <h6>
-<p></p>
-<p></p>
+<p>Michael James</p>
+<p>A checklist of important things for ScrumMasters to keep in mind, focusing on: How is my Product Owner doing?; How is my team doing?; How are our engineering practices doing? How is the organization doing?</p>
+<p><a href="https://scrummasterchecklist.org/pdf/ScrumMaster_Checklist_12_unbranded.pdf">ScrumMaster Checklist</a></p>
 </h6>
 </td>
 
 
 <td>
 <h6>
-<p></p>
-<p></p>
+<p>Henrik Kniberg</p>
+<p>A checklist to evaluate existing practices, divided into these sections: Recommended but not always necessary; Core Scrum; Scaling; Positive indicators</p>
+<p><a href="https://www.dropbox.com/s/qsitv2v30olqhms/Scrum-checklist.pdf?dl=0">Scrum Checklist</a></p>
 </h6>
 </td>
+
 
 
 <td>
 <h6>
-<p></p>
-<p></p>
+<p>James Shore</p>
+<p>A self-assessment quiz that focuses on five  aspects of agile development, from an XP perspective: Thinking; collaborating; releasing; planning; developing </p>
+<p><a href="https://www.dropbox.com/s/qsitv2v30olqhms/Scrum-checklist.pdf?dl=0">Assess Your Agility</a></p>
 </h6>
 </td>
 
 
-<td>
-<h6>
-<p></p>
-<p></p>
-</h6>
-</td>
 
-
-<td>
-<h6>
-<p></p>
-<p></p>
-</h6>
-</td>
 
 
 
