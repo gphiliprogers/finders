@@ -9,16 +9,16 @@ This page provides links to and short descriptions of content that provides succ
 - One-Pagers
 - Posters
 
-Note: The term "Cheat Sheet" will be used as a general category for the remainder of the refences on this page.
+Note: The term "cheat sheet" will be used as a general category for the remainder of the refences on this page.
 
 - The Cheat Sheet Finder includes the following categories:
    - Psychological Safety
    - Kanban, eXtreme Programming (XP), Scrum
-   - Softwaree Development
+   - Software Development
 - For each category, there are multiple cheat sheets. For each of those cheat sheets, you can find:
-  - The author(s) of the Cheat Sheet (or name of the organization hosting the content)
-  - A short description of what the Cheat Sheet describes 
-  - Name of Cheet Sheet, along with link to view or download 
+  - The author(s) of the cheat sheet (or name of the organization hosting the content)
+  - A short description of what the cheat sheet describes 
+  - Name of cheat sheet, along with link to view or download 
   
 **[Back to Finders home](https://gphiliprogers.github.io/finders/)**
 
