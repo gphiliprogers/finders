@@ -61,7 +61,7 @@ Note: The term "Cheat Sheet" will be used as a general category for the remainde
 <td>
 <h6>
 <p>Excella</p>
-<p>A fact sheet that describes what psychological safety is, how it’s manifested, and what we can do to model and reinforce it.</p>
+<p>A fact sheet that describes what psychological safety is, how it’s manifested, and what we can do to model and reinforce it</p>
 <p><a href="https://www.excella.com/resource/psychological-safety">Psychological safety fact sheet</a></p>
 </h6>
 </td>
@@ -70,7 +70,7 @@ Note: The term "Cheat Sheet" will be used as a general category for the remainde
 <td>
 <h6>
 <p>Joshua Kerievsky, Heidi Helfand, Ashley Johnson</p>
-<p>A cheat sheet containting a short collection of definitions and techniques to help ensure psychological safety is understood and enabled</p>
+<p>A cheat sheet containing a short collection of definitions and techniques to help ensure psychological safety is understood and enabled</p>
 <p><a href="http://modernagile.org/safety/">High performance via psychological safety</a></p>
 </h6>
 </td>
@@ -89,7 +89,7 @@ Note: The term "Cheat Sheet" will be used as a general category for the remainde
 <td>
 <h6>
 <p>Christophe Achouiantz</p>
-<p>A graph with axes for each of the following Kanban properties: visualize, limit WIP, manage flow, explicit policies, feedback loops, improve</p>
+<p>A graph with axes for each of the following Kanban properties: visualize work, limit WIP, manage flow, explicit policies, feedback loops, continuously improve</p>
 <p><a href="http://leanagileprojects.blogspot.com/2013/03/depth-of-kanban-good-coaching-tool.html">Depth of Kanban Graph</a></p>
 </h6>
 </td> 
