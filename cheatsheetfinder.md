@@ -118,7 +118,7 @@ Note: The term "Cheat Sheet" will be used as a general category for the remainde
 <td>
 <h6>
 <p>James Shore</p>
-<p>A self-assessment quiz that focuses on five  aspects of agile development, from an XP perspective: Thinking; collaborating; releasing; planning; developing </p>
+<p>A self-assessment quiz that focuses on five  aspects of agile development, from an XP perspective: Thinking; Collaborating; Releasing; Planning; Developing </p>
 <p><a href="https://www.dropbox.com/s/qsitv2v30olqhms/Scrum-checklist.pdf?dl=0">Assess Your Agility</a></p>
 </h6>
 </td>
@@ -138,7 +138,7 @@ Note: The term "Cheat Sheet" will be used as a general category for the remainde
 <td>
 <h6>
 <p>Corinna Baldauf</p>
-<p>A poster summarizing the simplicity rules, which are part of Simplicity - which is one of eXtreme Programming's core values.</p>
+<p>A poster summarizing the simplicity rules, which are part of Simplicity -- one of XP's core values.</p>
 <p><a href="https://wall-skills.com/2014/simplicity-rules-from-extreme-programming/">Simplicty Rules</a></p> 
 </h6>
 </td> 
