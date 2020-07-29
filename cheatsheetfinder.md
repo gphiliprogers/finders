@@ -14,6 +14,7 @@ Note: The term "Cheat Sheet" will be used as a general category for the remainde
 - The Cheat Sheet Finder includes the following categories:
    - Psychological Safety
    - Kanban, eXtreme Programming (XP), Scrum
+   - Softwaree Development
 - For each category, there are multiple cheat sheets. For each of those cheat sheets, you can find:
   - The author(s) of the Cheat Sheet (or name of the organization hosting the content)
   - A short description of what the Cheat Sheet describes 
@@ -131,8 +132,47 @@ Note: The term "Cheat Sheet" will be used as a general category for the remainde
 
 <tr>
 <td align="center">
-<h5>Category 3</h5>
+<h5>Software Development</h5>
 </td>
+   
+<td>
+<h6>
+<p>Corinna Baldauf</p>
+<p>A poster summarizing the simplicity rules, which are part of Simplicity - which is one of eXtreme Programming's core values.</p>
+<p><a href="https://wall-skills.com/2014/simplicity-rules-from-extreme-programming/">Simplicty Rules</a></p> 
+</h6>
+</td> 
+
+
+<td>
+<h6>
+<p>Urs Enzler</p>
+<p>A cheat sheet that delves into software architecture considerations, anti-patterns, code smells, and tips and tricks, to name a few</p>
+<p><a href="https://www.planetgeek.ch/2019/09/12/clean-simple-flexible-evolvable-and-agile-architecture-cheat-sheet-update-v1-5/">Clean, Simple, Flexible, Evolvable & Agile Architecture Cheat Sheet v 1.5</a></p>
+</h6>
+</td>
+
+
+
+<td>
+<h6>
+<p>Industrial Logic</p>
+<p>A cheat sheet containing a short collection of definitions and techniques for teams that want to try mob programming for the first time or enhance their existing mob programming practice</p>
+<p><a href="https://docs.google.com/document/d/1Ve5LVAJvGqJbUZR6C2o3ZNvFPKpuJ6sfIwxlpgKpKCk/export?format=pdf">Mob Programming Cheat Sheet</a></p>
+</h6>
+</td>
+   
+
+
+<td>
+<h6>
+<p>Brian Vermeer, Trisha Gee</p>
+<p>A cheat sheet that covers eight things to check for from a security point of view when writing or reviewing code</p>
+<p><a href="https://snyk.io/wp-content/uploads/Snyk-Secure-Code-Review-Cheat-Sheet.pdf">8 Security Code Review Best Practices Cheat Sheet</a></p>
+</h6>
+</td>
+
+
 
 <td>
 <h6>
@@ -140,39 +180,6 @@ Note: The term "Cheat Sheet" will be used as a general category for the remainde
 <p></p>
 </h6>
 </td>
-
-
-<td>
-<h6>
-<p></p>
-<p></p>
-</h6>
-</td>
-
-
-<td>
-<h6>
-<p></p>
-<p></p>
-</h6>
-</td>
-
-
-<td>
-<h6>
-<p></p>
-<p></p>
-</h6>
-</td>
-
-
-<td>
-<h6>
-<p></p>
-<p></p>
-</h6>
-</td>
-
 
 
 
