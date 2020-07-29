@@ -174,13 +174,6 @@ Note: The term "Cheat Sheet" will be used as a general category for the remainde
 
 
 
-<td>
-<h6>
-<p></p>
-<p></p>
-</h6>
-</td>
-
 
 
 
@@ -221,12 +214,7 @@ Note: The term "Cheat Sheet" will be used as a general category for the remainde
 </td>
 
 
-<td>
-<h6>
-<p></p>
-<p></p>
-</h6>
-</td>
+
 
 
 
@@ -269,12 +257,7 @@ Note: The term "Cheat Sheet" will be used as a general category for the remainde
 </td>
 
 
-<td>
-<h6>
-<p></p>
-<p></p>
-</h6>
-</td>
+
 
 
 
@@ -316,12 +299,7 @@ Note: The term "Cheat Sheet" will be used as a general category for the remainde
 </td>
 
 
-<td>
-<h6>
-<p></p>
-<p></p>
-</h6>
-</td> 
+
  
  
  
@@ -356,13 +334,6 @@ Note: The term "Cheat Sheet" will be used as a general category for the remainde
 </h6>
 </td>
 
-
-<td>
-<h6>
-<p></p>
-<p></p>
-</h6>
-</td>
 
 
 <td>
