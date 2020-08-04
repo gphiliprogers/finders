@@ -12,6 +12,7 @@ This page provides links to and short descriptions of content that provides succ
 Note: The term "cheat sheet" will be used as a general category for the remainder of the refences on this page.
 
 - The Cheat Sheet Finder includes the following categories:
+   - Flow/Getting Stuff Done
    - Psychological Safety
    - Kanban, eXtreme Programming (XP), Scrum
    - Software Development
@@ -35,6 +36,55 @@ Note: The term "cheat sheet" will be used as a general category for the remainde
 <h4>Cheat Sheets</h4>
 </td>
 </tr>
+
+
+
+
+<tr>
+<td align="center">
+<h5>Flow/Getting Stuff Done</h5>
+</td>
+   
+<td>
+<h6>
+<p>David Allen</p>
+<p>A diagram that shows the sequence of steps in David Allen's Getting Things Done (GTD) system</p>
+<p><a href="https://gettingthingsdone.com/wp-content/uploads/2014/10/workflow_map.pdf">GTD Workflow Processing and Organizing </a></p>
+</h6>
+</td>   
+ 
+   
+<td>
+<h6>
+<p>Kiryl Baranoshnik</p>
+<p>A cheat sheet that provides strategies for unplanned work, subdivided into two categories: 1. On-the-spot actions; 2. Continuous improvement actions </p>
+<p><a href="https://agilelab.org/unplanned-work-cheat-sheet">Unplanned Work Cheat Sheet</a></p>
+</h6>
+</td>
+
+<td>
+<h6>
+<p>Francesco Cirillo</p>
+<p>A cheat sheet that describes the goals, tools, parameters, and techniques that are part of the Pomodoro Technique</p>
+<p><a href="https://lawprofessors.typepad.com/files/pomodoro-cheat-sheet.pdf">The Pomodoro Technique Cheat Sheet</a></p>
+</h6>
+</td>
+
+<td>
+<h6>
+<p>Ashley Johnson, Mike Rieser, Joshua Kerievsky</p>
+<p>A cheat sheet that covers Lean concepts, as well as metrics and anti-patterns related to staying a state of flow</p>
+<p><a href="https://docs.google.com/document/d/1a0ortR3E6-DQurlY1s28LwbJBthjAYVtkQQozPxGGVA/export?format=pdf">Accelerating Flow Cheat Sheet</a></p>
+</h6>
+</td>
+
+
+
+
+
+
+
+
 
 
 <tr>
@@ -71,7 +121,7 @@ Note: The term "cheat sheet" will be used as a general category for the remainde
 <td>
 <h6>
 <p>Joshua Kerievsky, Heidi Helfand, Ashley Johnson</p>
-<p>A cheat sheet containing a short collection of definitions and techniques to help ensure psychological safety is understood and enabled</p>
+<p>A cheat sheet containing a collection of definitions and techniques to help ensure psychological safety is understood and enabled</p>
 <p><a href="http://modernagile.org/safety/">High Performance via Psychological Safety</a></p>
 </h6>
 </td>
